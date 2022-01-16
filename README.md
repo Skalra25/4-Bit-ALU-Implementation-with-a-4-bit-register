@@ -1,0 +1,2 @@
+# 4-Bit-ALU-Implementation-with-a-4-bit-register
+In this 4-bit ALU is being used where the arithmetic unit has an adder and a subtractor. No logical unit has been added (logical unit can be added by using port mapping). The output is displayed in the 7 segment display and stored in a 4-bit register. The implementation is quite similar to the ALU repo added earlier in my profile. The major difference is the addition of a memory unit like a 4-bit register
